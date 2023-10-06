@@ -1,0 +1,13 @@
+#header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+#quiz{
+    display: inline;
+}
+#entry{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
